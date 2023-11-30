@@ -6,6 +6,7 @@ public class Example1 {
 		// TODO Auto-generated method stub
 		System.out.println("오늘은 목요일 입니다.");
 		System.out.println("내일은 금요일 입니다.");
+		System.out.println("오늘은 날씨가 춥네요.");
 	}
 
 }
